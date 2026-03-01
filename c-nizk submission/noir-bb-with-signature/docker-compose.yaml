@@ -1,0 +1,13 @@
+version: "3.9"
+
+services:
+  zk-backend:
+    build: .
+    container_name: zk-backend
+    ports:
+      - "8080:8080"
+    environment:
+      SIGNING_KEY: "f3c9e5a2b1d8c4f6a9e0b3c5d7f1a2e4c6b8d9f0a1c3e5b7d9f2a4c6e8b1dc12"
+    volumes:
+      - ./proofsystem:/app/proofsystem
+      - ./tmp:/app/tmp

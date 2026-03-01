@@ -1,0 +1,29 @@
+creation_timestamp = ""
+data = ["", "", "", "", ""]
+message = ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]
+randomness = ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]
+
+[[constraints]]
+attribute_type = ""
+operation = ""
+value = ""
+
+[[constraints]]
+attribute_type = ""
+operation = ""
+value = ""
+
+[[constraints]]
+attribute_type = ""
+operation = ""
+value = ""
+
+[[constraints]]
+attribute_type = ""
+operation = ""
+value = ""
+
+[[constraints]]
+attribute_type = ""
+operation = ""
+value = ""
